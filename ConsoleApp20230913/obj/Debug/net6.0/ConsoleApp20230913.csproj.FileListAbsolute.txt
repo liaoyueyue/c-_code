@@ -1,0 +1,14 @@
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\bin\Debug\net6.0\ConsoleApp20230913.exe
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\bin\Debug\net6.0\ConsoleApp20230913.deps.json
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\bin\Debug\net6.0\ConsoleApp20230913.runtimeconfig.json
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\bin\Debug\net6.0\ConsoleApp20230913.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\bin\Debug\net6.0\ConsoleApp20230913.pdb
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\ConsoleApp20230913.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\ConsoleApp20230913.AssemblyInfoInputs.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\ConsoleApp20230913.AssemblyInfo.cs
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\ConsoleApp20230913.csproj.CoreCompileInputs.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\ConsoleApp20230913.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\refint\ConsoleApp20230913.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\ConsoleApp20230913.pdb
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\ConsoleApp20230913.genruntimeconfig.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\ConsoleApp20230913\obj\Debug\net6.0\ref\ConsoleApp20230913.dll
