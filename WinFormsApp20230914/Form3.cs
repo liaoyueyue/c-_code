@@ -30,10 +30,5 @@ namespace WinFormsApp20230914
             num1 = num1 ^ num2;
             lblShow.Text += "\n" + string.Format("num1={0};num2={1}", num1, num2);
         }
-
-        private void lblShow_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
