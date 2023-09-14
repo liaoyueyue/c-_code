@@ -38,7 +38,6 @@
             lblShow.Name = "lblShow";
             lblShow.Size = new Size(248, 184);
             lblShow.TabIndex = 0;
-            lblShow.Text = "label1";
             lblShow.Click += lblShow_Click;
             // 
             // Form3
