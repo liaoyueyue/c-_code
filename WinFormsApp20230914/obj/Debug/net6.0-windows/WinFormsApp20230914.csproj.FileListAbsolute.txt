@@ -18,3 +18,6 @@ E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230914\obj\Debug\net6
 E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230914\obj\Debug\net6.0-windows\WinFormsApp20230914.Form3.resources
 E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230914\obj\Debug\net6.0-windows\WinFormsApp20230914.Form4.resources
 E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230914\obj\Debug\net6.0-windows\WinFormsApp20230914.Form5.resources
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230914\obj\Debug\net6.0-windows\WinFormsApp20230914.Form6.resources
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230914\obj\Debug\net6.0-windows\WinFormsApp20230914.Form7.resources
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230914\obj\Debug\net6.0-windows\WinFormsApp20230914.Form8.resources
