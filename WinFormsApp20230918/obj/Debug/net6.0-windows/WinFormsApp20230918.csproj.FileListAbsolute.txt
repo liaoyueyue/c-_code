@@ -1,0 +1,16 @@
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\bin\Debug\net6.0-windows\WinFormsApp20230918.exe
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\bin\Debug\net6.0-windows\WinFormsApp20230918.deps.json
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\bin\Debug\net6.0-windows\WinFormsApp20230918.runtimeconfig.json
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\bin\Debug\net6.0-windows\WinFormsApp20230918.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\bin\Debug\net6.0-windows\WinFormsApp20230918.pdb
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.Form1.resources
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.csproj.GenerateResource.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.AssemblyInfoInputs.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.AssemblyInfo.cs
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.csproj.CoreCompileInputs.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\refint\WinFormsApp20230918.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.pdb
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\WinFormsApp20230918.genruntimeconfig.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230918\obj\Debug\net6.0-windows\ref\WinFormsApp20230918.dll
