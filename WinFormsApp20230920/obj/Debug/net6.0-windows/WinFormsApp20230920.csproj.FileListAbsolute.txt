@@ -1,0 +1,17 @@
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\bin\Debug\net6.0-windows\WinFormsApp20230920.exe
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\bin\Debug\net6.0-windows\WinFormsApp20230920.deps.json
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\bin\Debug\net6.0-windows\WinFormsApp20230920.runtimeconfig.json
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\bin\Debug\net6.0-windows\WinFormsApp20230920.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\bin\Debug\net6.0-windows\WinFormsApp20230920.pdb
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.Form1.resources
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.csproj.GenerateResource.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.AssemblyInfoInputs.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.AssemblyInfo.cs
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.csproj.CoreCompileInputs.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\refint\WinFormsApp20230920.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.pdb
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.genruntimeconfig.cache
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\ref\WinFormsApp20230920.dll
+E:\MyUniversity\0_ProgrammingLearning\c#_code\WinFormsApp20230920\obj\Debug\net6.0-windows\WinFormsApp20230920.Form2.resources
