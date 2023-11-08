@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Experiment5_new\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Administrator\Desktop\Experiment5_new\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Administrator\Desktop\Experiment5_new\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Experiment5_new\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Administrator\Desktop\Experiment5_new\ClassLibrary\obj\Debug\ClassLibrary.pdb

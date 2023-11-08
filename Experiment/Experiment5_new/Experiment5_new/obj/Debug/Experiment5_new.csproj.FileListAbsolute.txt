@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\bin\Debug\Experiment5_new.exe.config
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\bin\Debug\Experiment5_new.exe
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\bin\Debug\Experiment5_new.pdb
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\bin\Debug\ClassLibrary.dll
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\bin\Debug\ClassLibrary.pdb
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\obj\Debug\Experiment5_new.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\obj\Debug\Experiment5_new.Form1.resources
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\obj\Debug\Experiment5_new.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\obj\Debug\Experiment5_new.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\obj\Debug\Experiment5_new.exe
+C:\Users\Administrator\Desktop\Experiment5_new\Experiment5_new\obj\Debug\Experiment5_new.pdb

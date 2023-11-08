@@ -1,0 +1,16 @@
+F:\Courses\C#\Experiment\Experiment4\Experiment4\bin\Debug\net6.0-windows\Experiment4.exe
+F:\Courses\C#\Experiment\Experiment4\Experiment4\bin\Debug\net6.0-windows\Experiment4.deps.json
+F:\Courses\C#\Experiment\Experiment4\Experiment4\bin\Debug\net6.0-windows\Experiment4.runtimeconfig.json
+F:\Courses\C#\Experiment\Experiment4\Experiment4\bin\Debug\net6.0-windows\Experiment4.dll
+F:\Courses\C#\Experiment\Experiment4\Experiment4\bin\Debug\net6.0-windows\Experiment4.pdb
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.Form1.resources
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.csproj.GenerateResource.cache
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.AssemblyInfoInputs.cache
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.AssemblyInfo.cs
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.csproj.CoreCompileInputs.cache
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.dll
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\refint\Experiment4.dll
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.pdb
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\Experiment4.genruntimeconfig.cache
+F:\Courses\C#\Experiment\Experiment4\Experiment4\obj\Debug\net6.0-windows\ref\Experiment4.dll

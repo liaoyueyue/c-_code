@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\bin\Debug\Experiment4.exe.config
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\obj\Debug\Experiment4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\obj\Debug\Experiment4.Form1.resources
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\obj\Debug\Experiment4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\obj\Debug\Experiment4.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\bin\Debug\Experiment4.exe
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\bin\Debug\Experiment4.pdb
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\obj\Debug\Experiment4.exe
+C:\Users\Administrator\Desktop\Experiment4\Experiment4\obj\Debug\Experiment4.pdb

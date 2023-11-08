@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\bin\Debug\Experiment1.exe.config
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\bin\Debug\Experiment1.exe
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\bin\Debug\Experiment1.pdb
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\obj\Debug\Experiment1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\obj\Debug\Experiment1.Form1.resources
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\obj\Debug\Experiment1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\obj\Debug\Experiment1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\obj\Debug\Experiment1.exe
+C:\Users\Administrator\Desktop\c#_code\Experiment1\Experiment1\obj\Debug\Experiment1.pdb
